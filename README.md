@@ -1,1 +1,1 @@
-# Equipartitions
+# Fair Partitions Method
