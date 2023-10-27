@@ -1,6 +1,6 @@
 # Fair Partitions Method
 
-From a fixed convex polygon and n random points in R², we construct a Voronoi partition of the original polygon and an associated Centroidal Voronoi partition via Lloyd´s Algorithm. We then proceed to apply Normal Flow Algorithm to minimize the error in areas and perimeters.
+From a fixed convex polygon and n random points in R², we construct a Voronoi partition of the original polygon and an associated Centroidal Voronoi partition via Lloyd´s Algorithm. We then proceed to apply Normal Flow Algorithm to minimize the error in areas and perimeters. This results in a partition of the original polygon into convex regions having equal area and equal perimeter.
 
 ## Table of Contents
 - [Fair Partitions Method](#project-name)
