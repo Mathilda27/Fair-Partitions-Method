@@ -1,6 +1,6 @@
 # Fair Partitions Method
 
-A brief description of your project goes here.
+From a fixed convex polygon and n random points in R², we construct a Voronoi partition of the original polygon and an associated Centroidal Voronoi partition via Lloyd´s Algorithm. We then proceed to apply Normal Flow Algorithm to minimize the error in areas and perimeters.
 
 ## Table of Contents
 - [Fair Partitions Method](#project-name)
@@ -10,30 +10,33 @@ A brief description of your project goes here.
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
   - [Usage](#usage)
-  - [Contributing](#contributing)
   - [License](#license)
 
 ## Introduction
 
-Provide a brief introduction to your project. Explain what it does, its main features, and why it is useful or important. Include any badges, such as build status or version, if applicable.
+Problems regarding partitions of regions are common optimization problems as they arise from real world applications. Many authors have addressed the problem of partitioning convex regions with specific properties. Among these, one particular that stands out is partitioning a convex polygon into convex regions of equal area and equal perimeter.
+This problem was firstly proposed by Nandakumar and RamanaRao where such partition was coined Convex Fair Partition. In this project we provide a code that solves the Fair Partition problem without imposing any constraints.
 
 ## Features
 
-List the key features and functionalities of your project.
-
-- Feature 1
-- Feature 2
-- Feature 3
+- Partition a convex polygon into regions of equal area and equal perimeter.
 
 ## Getting Started
 
-Explain how to get started with your project. Provide step-by-step instructions for installation and configuration.
+Download the class_Equipartition.py file
 
 ### Prerequisites
 
-List any prerequisites that users need to have installed or set up before they can use your project.
+Import libraries from Dependencies.py File.
 
 ## Usage
+
+Copy the example in the Example.py File, paste it in the class_Equipartition.py File and run it in a python terminal.
+
+## License
+
+This project is under MIT License.
+
 
 
 
