@@ -15,7 +15,7 @@ From a fixed convex polygon and n random points in R², we construct a Voronoi p
 ## Introduction
 
 Problems regarding partitions of regions are common optimization problems as they arise from real world applications. Many authors have addressed the problem of partitioning convex regions with specific properties. Among these, one particular that stands out is partitioning a convex polygon into convex regions of equal area and equal perimeter.
-This problem was firstly proposed by Nandakumar and RamanaRao where such partition was coined Convex Fair Partition. In this project we provide a code that solves the Fair Partition problem without imposing any constraints. For further information please visit https://doi.org/10.21203/rs.3.rs-3276690/v1.
+This problem was firstly proposed by Nandakumar and RamanaRao where such partition was coined Convex Fair Partition. In this project we provide a code that solves the Fair Partition problem without imposing any constraints. For further information please visit https://doi.org/10.21203/rs.3.rs-3276690/v1 and/or https://doi.org/10.1016/j.mex.2023.102530
 
 ## Features
 
